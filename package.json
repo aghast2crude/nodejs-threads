@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-threads",
+  "description": "This is a practice repo on Nodejs-threads. Understanding how nodejs-threads work and examples.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aghast2crude/nodejs-threads.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aghast2crude/nodejs-threads/issues"
+  },
+  "homepage": "https://github.com/aghast2crude/nodejs-threads#readme"
+}
